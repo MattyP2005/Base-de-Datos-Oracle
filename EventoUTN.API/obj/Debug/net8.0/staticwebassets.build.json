@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "H2RvR+MCOIs4S5p+ZMOSuGv1JwXtglgEYdSDWwyRRHw=",
+  "Source": "EventoUTN.API",
+  "BasePath": "_content/EventoUTN.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
